@@ -8,6 +8,7 @@ const AppStyle = styled.div`
 `;
 
 function App() {
+    const a = 1;
     return (
         <AppStyle className='App'>
             <header className='App-header'>
